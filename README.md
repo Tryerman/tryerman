@@ -2,7 +2,7 @@
 
 **`FRONTEND DEVELOPER`**
 
-<span><img src="https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif" />
+<!-- <span><img src="https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif" /> -->
 
 ![Alt Text](https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif)
 
