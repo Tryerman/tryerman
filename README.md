@@ -5,7 +5,7 @@
 <!-- <span><img src="https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif" /> -->
 
 <!-- ![Alt Text]() -->
- <img align="right" alt="GIF" src="https://github.com/Tryerman/tryerman/blob/main/billy-butcher-tea.gif">
+ <img align="right" width="200px" alt="GIF" src="https://github.com/Tryerman/tryerman/blob/main/billy-butcher-tea.gif">
 
 <div>
  <p width="100px">
