@@ -4,7 +4,7 @@
 
 <span><img src="https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif" />
 
-
+![Alt Text](https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif)
 
 I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the development of Software components and integrated technical solutions
 
