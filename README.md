@@ -1,4 +1,4 @@
-<div align="center"><span>👨‍💻 Ruslan Mamedbekov (Tryerman)</span></div>
+<div align="center">👨‍💻 Ruslan Mamedbekov (Tryerman)</div>
 
 **`Developer`**
 
