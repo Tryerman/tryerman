@@ -16,12 +16,21 @@
  </p>
 </div>
 
+### 📊 Stats
+
+![Tryerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryerman&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tryerman&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -48,13 +57,6 @@
 <br />
 <br />
 <br />
-### 📊 Stats
-
-![Tryerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryerman&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tryerman&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 <details>
  <summary><h3>👨‍💻 Tryerman's Coding Journey</h3></summary>
