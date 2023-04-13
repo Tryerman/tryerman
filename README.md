@@ -7,9 +7,14 @@
 <!-- ![Alt Text]() -->
  <img align="right" alt="GIF" src="https://github.com/Tryerman/tryerman/blob/main/billy-butcher-tea.gif">
 
-I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the development of Software components and integrated technical solutions
-
-Current personal project <a href="https://github.com/Tryerman/steam-clone">Steam-clone</a>, this is a clone (partial) of a known application. I chose this app as an example. To improve my e-commerce application development skills
+<div width="300px">
+ <p>
+  I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the   development of Software components and integrated technical solutions
+ </p>
+ <p>
+  Current personal project <a href="https://github.com/Tryerman/steam-clone">Steam-clone</a>, this is a clone (partial) of a known application. I chose this app as an example. To improve my e-commerce application development skills
+ </p>
+</div>
 
 ### 🧰 Languages and Tools
 
