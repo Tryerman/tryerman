@@ -18,7 +18,7 @@
 
 ### 📊 Stats
 
-<div align="center">![Tryerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryerman&show_icons=true&theme=gruvbox)</div>
+![Tryerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryerman&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tryerman&theme=gruvbox&border_radius=4.5) -->
 
