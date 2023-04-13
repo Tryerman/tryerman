@@ -1,4 +1,7 @@
 <div align="center"><font size="7">👨‍💻 Ruslan Mamedbekov (Tryerman)</font></div>
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 
 **`Developer`**
 
