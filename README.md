@@ -7,7 +7,7 @@
 <!-- ![Alt Text]() -->
  <img align="right" alt="GIF" src="https://github.com/Tryerman/tryerman/blob/main/billy-butcher-tea.gif">
 
-<div width="300px">
+<div width="100px">
  <p>
   I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the   development of Software components and integrated technical solutions
  </p>
