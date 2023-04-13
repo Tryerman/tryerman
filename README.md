@@ -2,7 +2,8 @@
 
 **`Developer`**
 
-FRONTEND DEVELOPER
+<span>FRONTEND DEVELOPER</span>
+<span><a src="https://www.indiewire.com/wp-content/uploads/2018/03/shutterstock_1940018b.jpg" />
 
 I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the development of Software components and integrated technical solutions
 
