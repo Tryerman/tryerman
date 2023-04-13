@@ -3,7 +3,7 @@
 **`Developer`**
 
 <span>FRONTEND DEVELOPER</span>
-<span><img src="https://www.indiewire.com/wp-content/uploads/2018/03/shutterstock_1940018b.jpg" />
+<span><img src="https://resizer.mail.ru/p/b289c5e5-9d9f-501a-8977-d14ba2f90851/AAACISikNOZb6k-ClFiIEsdAvnP1t-LQdHk94u7cO6LHk51Gg42Nm6r0BxzN9sgvw6upQBWlhLvN2spNE0wfCnvHJ7U.jpg" />
 
 I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the development of Software components and integrated technical solutions
 
