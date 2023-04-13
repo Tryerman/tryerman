@@ -2,8 +2,9 @@
 
 **`FRONTEND DEVELOPER`**
 
-<span><img src="https://resizer.mail.ru/p/b289c5e5-9d9f-501a-8977-d14ba2f90851/AAACISikNOZb6k-ClFiIEsdAvnP1t-LQdHk94u7cO6LHk51Gg42Nm6r0BxzN9sgvw6upQBWlhLvN2spNE0wfCnvHJ7U.jpg" />
- <div class="tenor-gif-embed" data-postid="23858792" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/billy-butcher-tea-gif-23858792">Billy Butcher Tea GIF</a>from <a href="https://tenor.com/search/billy+butcher+tea-gifs">Billy Butcher Tea GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<span><img src="https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif" />
+
+
 
 I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the development of Software components and integrated technical solutions
 
