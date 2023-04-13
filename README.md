@@ -45,6 +45,8 @@
 <img align="left" alt="SCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <br />
 <br />
+<br />
+<br />
 
 <h3>👨‍💻 Tryerman's Coding Journey</h3>
 <br />
