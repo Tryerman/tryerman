@@ -46,6 +46,8 @@
 <br />
 
 <h3>👨‍💻 Tryerman's Coding Journey</h3>
+<br />
+<br />
    I started learning programming when I was in college, but all programming came down to developing solutions to equations in pascal and a database with a graphical interface. At that time, it didn't seem to me the most interesting thing to do, but in 2019 everything changed. I returned from the army and got my first job in the IT field. I started managing the website of a large bank in Russia. There I got acquainted with the basic work of a web developer and realized that I wanted to work in this field, since the web gives me great opportunities to move, using JavaScript I can develop anything I want and what is relevant to the market (mobile applications, web applications, games, etc.). So I decided for myself, that I want to become a frontend developer.
 
 [telegram]: https://t.me/tryerm4n
