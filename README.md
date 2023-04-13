@@ -4,6 +4,10 @@
 
 FRONTEND DEVELOPER
 
+I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the development of Software components and integrated technical solutions
+
+Current personal project <a href="https://github.com/Tryerman/steam-clone">Steam-clone</a>, this is a clone (partial) of a known application. I chose this app as an example. To improve my e-commerce application development skills
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
