@@ -5,7 +5,7 @@
 <!-- <span><img src="https://media.tenor.com/E5-zDDsvQx8AAAAC/billy-butcher-tea.gif" /> -->
 
 <!-- ![Alt Text]() -->
- <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/Tryerman/tryerman/blob/main/billy-butcher-tea.gif">
+ <img align="right" top="500" alt="GIF" src="https://github.com/Tryerman/tryerman/blob/main/billy-butcher-tea.gif">
 
 I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the development of Software components and integrated technical solutions
 
