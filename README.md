@@ -11,9 +11,7 @@
  <p width="100px">
   I work for the company <a href="http://lk-soft.ru/">Laika soft LLC</a> (the projects are private, so I can't provide them for review). I am involved in the   development of Software components and integrated technical solutions
  </p>
- <p width="100px">
-  Current personal project <a href="https://github.com/Tryerman/steam-clone">Steam-clone</a>, this is a clone (partial) of a known application. I chose this app as an example. To improve my e-commerce application development skills
- </p>
+ 
 </div>
 
 ### 📊 Stats
