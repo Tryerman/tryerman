@@ -1,4 +1,4 @@
-<div align="center"><h1>👨‍💻 Ruslan Mamedbekov (Tryerman) 2023</h1></div>
+<div align="center"><h1>👨‍💻 Ruslan Mamedbekov (Tryerman) 2024</h1></div>
 
 **`FRONTEND DEVELOPER`**
 
